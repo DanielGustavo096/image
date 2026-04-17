@@ -38,3 +38,4 @@ public class Image {
     @Lob
     private byte[] file;
 }
+
